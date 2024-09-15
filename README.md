@@ -74,6 +74,8 @@ To create a new user, simply use the web interface provided by the GitHub Pages 
 
 The API file (`user.json`) will be updated automatically whenever a new user is created or existing data is modified.
 
+[Example API](https://dunkeyyfong.github.io/user.json)
+
 ## Troubleshooting
 
 ### Unauthorized Error
