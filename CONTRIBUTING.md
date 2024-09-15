@@ -40,7 +40,7 @@ We expect everyone to follow our [Code of Conduct](https://github.com/dunkeyyfon
 
 ## Contact
 
-If you have any questions or need assistance, please reach out to us through the [issue tracker](https://github.com/dunkeyyfong/FnAPI/issues) or contact us directly at [your-email@example.com](mailto:your-email@example.com).
+If you have any questions or need assistance, please reach out to us through the [issue tracker](https://github.com/dunkeyyfong/FnAPI/issues) or contact us directly at [phongtrong865@gmail.com](mailto:phongtrong865@gmail.com).
 
 Thank you for contributing to FnAPI!
 
