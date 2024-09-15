@@ -31,11 +31,11 @@ FnAPI is a project that utilizes GitHub Pages to host and serve a JSON-based API
    Create a `.env` file in the root directory of the project with the following content:
 
    ```env
-   FILE_PATH=user.json
-   REPO_OWNER=yourusername
-   REPO_NAME=yourrepository
-   ACCESS_TOKEN=your_github_access_token
-   BRANCH_NAME=main
+   VITE_FILE_PATH=user.json
+   VITE_REPO_OWNER=yourusername
+   VITE_REPO_NAME=yourrepository
+   VITE_ACCESS_TOKEN=your_github_access_token
+   VITE_BRANCH_NAME=main
    ```
 
 3. **Configure GitHub Pages**
